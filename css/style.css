@@ -1,0 +1,238 @@
+.navbar-fixed-top.scrolled {
+  background-color: #3b2a21 !important;
+  transition: background-color 50ms linear;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top {
+	background-color: transparent;
+	border: 0;
+}
+
+.navbar-default a.navbar-brand {
+	font-size: 34px;
+	color: #ffffff;
+}
+
+.navbar-default a.navbar-brand:hover {
+	color: #c7b299;;
+}
+
+#navbarCollapse .navbar-nav li .links {
+  font-family: 'montserratlight';
+	font-size: 14px;
+	color: #ffffff;
+}
+
+#navbarCollapse .navbar-nav li .links:hover {
+	color: #c7b299;
+}
+
+/* carousel */
+.carousel {
+	position: relative;
+	top: 0;
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 30%;
+}
+
+.carousel-caption h2 {
+	font-family: 'ralewaymedium';
+	font-size: 36px;
+	color: #ffffff;
+}
+
+.carousel-caption h1 {
+	font-family: 'ralewayextrabold';
+	font-size: 52px;
+	color: #ffffff;
+	margin-top: 23px;
+}
+
+.carousel-caption div p {
+	font-family: 'montserratlight';
+	font-size: 16px;
+	width: 73%;
+	display: inline-block;
+  margin-top: 30px;
+}
+
+.carousel-caption button {
+	font-family: 'ralewayextrabold';
+	font-size: 14px;
+	text-transform: uppercase;
+	background-color: #998675;
+	padding: 21px 18px 18px 18px;
+	border-bottom: 3px solid #736357;
+	margin-top: 50px;
+}
+
+.carousel-caption button:hover {
+	color: #ffffff;
+}
+
+/* services */
+.icons {
+	margin: 89px 0px;
+}
+
+i.fa-pencil {
+	font-size: 64px;
+	color: #555555;
+}
+
+i.fa-envelope {
+	font-size: 64px;
+	color: #555555;
+}
+
+i.fa-gear {
+	font-size: 64px;
+	color: #555555;
+}
+
+i.fa-shopping-cart {
+	font-size: 64px;
+	color: #555555;
+}
+
+
+a > i h4:hover {
+	color: red;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+#services h4 {
+  font-family: 'ralewaysemibold';
+	font-size: 24px;
+	color: #555555;
+}
+
+#services p {
+  font-family: 'montserratlight';
+  font-size: 14px;
+	color: #8c8c8c;
+}
+
+/* waxom */
+#waxom {
+	background-color: #fbfaf8;
+}
+
+.waxom {
+	margin-top: 83px;
+}
+
+#waxom h2 {
+	font-family: 'ralewaysemibold';
+	font-size: 30px;
+	color: #555555;
+}
+
+#waxom p {
+	font-family: 'montserratlight';
+	font-size: 16px;
+	color: #8c8c8c;
+	margin-top: 18px;
+	width: 70%;
+	display: inline-block;
+}
+
+img.img-center {
+	display: inline-block;
+	margin-top: 45px;
+}
+
+/* purchase */
+#purchase {
+	background-image: url(../images/purchase-bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+}
+
+#purchase h2 {
+  font-family: 'ralewayregular';
+	font-size: 28px;
+	color: #ffffff;
+	margin-top: 40px;
+}
+
+#purchase h3 {
+	font-family: 'montserratlight';
+	font-size: 18px;
+	color: #594f4c;
+}
+
+#purchase button {
+	font-family: 'ralewayextrabold';
+	font-size: 14px;
+	color: #ffffff;
+	text-transform: uppercase;
+	background-color: #998675;
+	padding: 19px 11px;
+	margin: 48px 0px;
+}
+
+/* latest project */
+#project h2 {
+	font-family: 'ralewaysemibold';
+	font-size: 30px;
+	color: #555555;	
+}
+
+.project {
+	margin-top: 80px;
+}
+
+#project p {
+	font-family: 'montserratlight';
+	font-size: 16px;
+	color: red;
+	width: 60%;
+	margin: 24px auto 44px auto;
+}
+
+#project ul li {
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+
+#project ul li button {
+	background-color: #ffffff;
+	border: 1px solid #ebebeb;
+	color: #c7c7c7;
+	padding-left: 27px;
+	padding-right: 27px;	
+}
+
+#project ul li button:hover {
+	background-color: #998675;
+	color: #ffffff;
+}
+
+.titles {
+	background-color: #fbfaf8;
+}
+
+#project h3 {
+	font-family: 'ralewaymedium';
+	font-size: 20px;
+	color: #d2c2ae;
+}
+
+#project h5 {
+	font-family: 'montserratlight';
+	font-size: 14px;
+	color: #d1d1d1;
+}
